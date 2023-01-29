@@ -12,7 +12,9 @@
 </div>
 
 ### About me
-I am a Full Stack Developer from India and I also love learning about programming languages.
+- I am a Full Stack Developer from India. 
+- A functional programming enthusiast (currently working on my own functional language called not-a-lisp).
+- Enjoy working with new technologies.
 <br>
 <br>
 
@@ -26,6 +28,9 @@ I am a Full Stack Developer from India and I also love learning about programmin
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/haskell/haskell-original.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" width="40" height="40">
 </div>
 <br>
 <br>
